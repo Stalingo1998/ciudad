@@ -1,0 +1,6 @@
+helper URL
+  base_url():
+    Acceder a recursos estaticos
+
+site_url():
+movernos entre controladores
